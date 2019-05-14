@@ -1,6 +1,8 @@
 # GlueUARTLibrary
 A replacement ADUCM3029 UART library for ADI implemented UART Library. Uses interrupts and circular buffers to receive and transmit data through UART. 
 
+*still in development
+
 # Library API
 
 bool UART_Init();
